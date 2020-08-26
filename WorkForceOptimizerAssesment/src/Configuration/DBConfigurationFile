@@ -1,0 +1,4 @@
+user=system  
+password=oracle 
+driverClassName=com.mysql.jdbc.Driver
+url=jdbc:mysql://localhost:3306/WorkForceOptimizer
